@@ -1,1 +1,4 @@
-Aquí hay un texto agregado a demo.txt
+﻿Aquí hay un texto agregado a demo.txt
+
+Otro texto agregado localmente.
+
